@@ -60,9 +60,9 @@ Created an interactive Tableau dashboard displaying:
 
 ## Files
 
-* `art_analysis.py` – Python data cleaning and analysis script
+* `art_data_cleaned.py` – Python data cleaning and analysis script
 * `art_summary_data.csv` – Cleaned summary dataset
-* `Reproductive_Health_Trends.twbx` – Tableau workbook (if included)
+* `avg_ART_success_rate_by_age_group.png`
 * `README.md`
 
 ## Dashboard
@@ -74,14 +74,3 @@ View the interactive Tableau dashboard here:
 ## Key Insights
 
 * ART success rates vary significantly across age groups.
-* Treatment volume is concentrated within specific patient demographics.
-* Geographic visualization highlights the distribution of reporting fertility clinics.
-* Interactive dashboards make reproductive health metrics easier to explore for healthcare stakeholders.
-
-## Future Improvements
-
-* Add trend analysis over multiple years
-* Build predictive models for treatment outcomes
-* Incorporate additional demographic and clinical variables
-* Automate data ingestion using scheduled ETL pipelines
-* Deploy dashboards with live data connections
